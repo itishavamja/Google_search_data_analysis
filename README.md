@@ -34,5 +34,8 @@ Ensure you're connected to the internet since pytrends fetches data live from Go
 
 <img width="1327" height="625" alt="image" src="https://github.com/user-attachments/assets/dc1cfce7-df0f-435a-aad2-7f4de0b02258" />
 
+<img width="1182" height="567" alt="image" src="https://github.com/user-attachments/assets/f3ac514d-55d4-4939-badc-16d9c1ca3a45" />
+
+
 
  
