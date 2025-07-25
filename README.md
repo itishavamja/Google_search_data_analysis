@@ -11,7 +11,7 @@ Identify the top countries showing interest in cloud computing.
 Compare cloud computing with data science and machine learning based on Google search interest over time.
 Key Features:
 
-1. Interest by Region
+1.Interest by Region
 Visualized a bar chart of the top 15 countries searching for “Cloud Computing”.
 Displayed a choropleth world map to show regional interest levels.
 
