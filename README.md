@@ -31,4 +31,8 @@ Plotted all three on a single timeline for visual comparison.
 
 
 Ensure you're connected to the internet since pytrends fetches data live from Google.
+
+<img width="1327" height="625" alt="image" src="https://github.com/user-attachments/assets/dc1cfce7-df0f-435a-aad2-7f4de0b02258" />
+
+
  
